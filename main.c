@@ -265,7 +265,7 @@ int main(void) {
 			}
 		}
 	
-	}
+	
 
 
 		// Kreowanie długości węża oraz skracanie po przemieszczeniu
